@@ -1,0 +1,12 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "id": "https://github.com/salvatoremancuso2003/testOpenBagdes/blob/main/reader-badge.json",
+    "type": "BadgeClass",
+    "name": "Reader",
+    "description": "Reader di Salvatore.",
+    "image": "https://thejeshgn.com/blog/wp-content/uploads/2014/07/thejeshgn_icon.png",
+    "criteria": "TEST",
+    "tags": ["test", "reader"],
+    "alignment": [ ],
+    "issuer": "https://github.com/salvatoremancuso2003/testOpenBagdes/blob/main/issuer-organization.json"
+}
