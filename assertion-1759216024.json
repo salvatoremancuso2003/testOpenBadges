@@ -1,6 +1,6 @@
 {
   "context": "https://w3id.org/openbadges/v2",
-  "id": "https://github.com/salvatoremancuso2003/testOpenBagdes/blob/main/assertion-1759216024.json",
+  "id": "https://salvatoremancuso2003.github.io/testOpenBadges/assertion-1759216024.json",
   "type": "Assertion",
   "recipient": {
     "type": "email",
@@ -8,7 +8,7 @@
     "identity": "sha256$6d0874e9fdcdfd76936f85a81447d07184848cac0d630317f88738fd40eb1992"
   },
   "issuedOn": "2025-09-30T07:19:24Z",
-  "badge": "http://thejeshgn.github.io/openbadge/reader-badge-class.json",
+  "badge": "https://salvatoremancuso2003.github.io/testOpenBadges/reader-badge.json",
   "verification": {
     "type": "HostedAssertion"
   }
