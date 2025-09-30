@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.com/salvatoremancuso2003/testOpenBagdes/blob/main/reader-badge.json",
+    "id": "https://salvatoremancuso2003.github.io/testOpenBadges/reader-badge.json",
     "type": "BadgeClass",
     "name": "Reader",
     "description": "Reader di Salvatore.",
@@ -8,5 +8,5 @@
     "criteria": "TEST",
     "tags": ["test", "reader"],
     "alignment": [ ],
-    "issuer": "https://github.com/salvatoremancuso2003/testOpenBagdes/blob/main/issuer-organization.json"
+    "issuer": "https://salvatoremancuso2003.github.io/testOpenBadges/issuer-organization.json"
 }
