@@ -1,6 +1,6 @@
 {
     "@context": "https://w3id.org/openbadges/v2",
-    "id": "https://github.com/salvatoremancuso2003/testOpenBagdes/blob/main/issuer-organization.json",
+    "id": "https://salvatoremancuso2003.github.io/testOpenBadges/issuer-organization.json",
     "type": "Issuer",
     "name": "Salvatore Test",
     "url": "smartoop.it"
