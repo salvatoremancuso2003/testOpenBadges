@@ -1,5 +1,5 @@
 {
-  "context": "https://w3id.org/openbadges/v2",
+  "@context": "https://w3id.org/openbadges/v2",
   "id": "https://salvatoremancuso2003.github.io/testOpenBadges/assertion-1759216024.json",
   "type": "Assertion",
   "recipient": {
@@ -9,8 +9,7 @@
   },
   "issuedOn": "2025-09-30T08:25:54Z",
   "badge": "https://salvatoremancuso2003.github.io/testOpenBadges/reader-badge.json",
-   "verification": {
-    "type": "hosted",
-    "url": "https://salvatoremancuso2003.github.io/testOpenBadges/assertion-1759216024.json"
+  "verification": {
+    "type": "hosted"
   }
 }
