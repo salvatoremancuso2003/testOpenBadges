@@ -10,7 +10,7 @@
   "issuedOn": "2025-09-30T08:25:54Z",
   "badge": "https://salvatoremancuso2003.github.io/testOpenBadges/reader-badge.json",
    "verification": {
-    "type": "Hosted",
+    "type": "hosted",
     "url": "https://salvatoremancuso2003.github.io/testOpenBadges/assertion-1759216024.json"
   }
 }
