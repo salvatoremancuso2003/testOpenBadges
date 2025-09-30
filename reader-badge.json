@@ -4,7 +4,7 @@
   "type": "BadgeClass",
   "name": "Reader",
   "description": "Reader di Salvatore.",
-  "image": "https://thejeshgn.com/blog/wp-content/uploads/2014/07/thejeshgn_icon.png",
+  "image": "https://www.smartoop.it/assets/imgs/logo.png",
   "tags": ["test", "reader"],
   "criteria": {
     "type": "Criteria",
