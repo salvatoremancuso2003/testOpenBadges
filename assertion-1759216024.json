@@ -3,7 +3,7 @@
   "id": "https://salvatoremancuso2003.github.io/testOpenBadges/assertion-1759216024.json",
   "type": "Assertion",
   "recipient": {
-    "type": "email",
+    "type": "json-ld",
     "hashed": true,
     "identity": "sha256$6d0874e9fdcdfd76936f85a81447d07184848cac0d630317f88738fd40eb1992"
   },
